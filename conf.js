@@ -11,6 +11,6 @@ exports.config = {
     // }, {
     //   browserName: 'chrome'
     // }]
-
+jasmineNodeOpts: { defaultTimeoutInterval: 260000 } 
 
   }
